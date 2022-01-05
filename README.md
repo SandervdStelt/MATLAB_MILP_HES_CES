@@ -1,5 +1,5 @@
 Introduction:
-This project contains the model to solve the MILP problems presented in publication
+This project contains the model to solve the MILP problems presented in my publication from 2017
 https://www.sciencedirect.com/science/article/pii/S0306261917315337#f0015
 
 the MILP problems are formulated in MATLAB (R2016B) using the YALMIP toolbox, and solved using IBM ILOG CPLEX Optimization Studio 
